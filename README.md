@@ -1,8 +1,6 @@
 WP-Skokov
 
-https://dev-baklytsky-skokov.pantheonsite.io/wp-admin/
+https://dev-baklytsky-skokov.pantheonsite.io/
 
 Skokov делал без плагина ACF. 
 
-User: admin
-Pas: AdminAdmin
